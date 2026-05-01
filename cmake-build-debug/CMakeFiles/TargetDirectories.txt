@@ -1,0 +1,3 @@
+/home/niladri/CLionProjects/ns-shell/cmake-build-debug/CMakeFiles/ns_shell.dir
+/home/niladri/CLionProjects/ns-shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/niladri/CLionProjects/ns-shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/niladri/CLionProjects/ns-shell/cmake-build-debug",
+  "command": "/usr/bin/cc -g -fdiagnostics-color=always -o CMakeFiles/ns_shell.dir/main.c.o -c /home/niladri/CLionProjects/ns-shell/main.c",
+  "file": "/home/niladri/CLionProjects/ns-shell/main.c",
+  "output": "/home/niladri/CLionProjects/ns-shell/cmake-build-debug/CMakeFiles/ns_shell.dir/main.c.o"
+}
+]
